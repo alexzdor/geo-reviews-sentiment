@@ -117,8 +117,6 @@ pip install datasets scikit-learn pandas numpy torch transformers
 
 Ячейки запускаются сверху вниз: загрузка данных → очистка и split → TF-IDF baseline → LSTM → rubert-tiny2 → оценка на test.
 
-> TODO: после выноса кода в `src/` заменить на запуск скриптами.
-
 ## Структура репозитория
 
 ```
